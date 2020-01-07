@@ -9,4 +9,4 @@ python main.py
 2. Add specified dataset.
 3. Run all.
 
-[Dataset](https://www.https://www.kaggle.com/jsphyg/tipping)
+[Dataset](https://www.kaggle.com/jsphyg/tipping)
